@@ -58,9 +58,9 @@ See jupyter notebook for a simple RAG
 
 
 ## Credits
-* (venergiac blog)[https://venergiac.blogspot.com/]
-* (QDRANT)[https://qdrant.tech/documentation/embeddings/ollama/]
-* (RAG PROMPTING)[https://iamholumeedey007.medium.com/prompt-engineering-patterns-for-successful-rag-implementations-b2707103ab56]
+* [venergiac blog](https://venergiac.blogspot.com/)
+* [QDRANT](https://qdrant.tech/documentation/embeddings/ollama/)
+* [RAG PROMPTING](https://iamholumeedey007.medium.com/prompt-engineering-patterns-for-successful-rag-implementations-b2707103ab56)
 
 
 
