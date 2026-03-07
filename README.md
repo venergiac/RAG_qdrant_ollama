@@ -1,3 +1,7 @@
+![github](https://img.shields.io/badge/github-repo-blue?logo=github)
+![neuroscience](https://img.shields.io/badge/ai-RAG-green)
+[![followme](https://img.shields.io/badge/followme-venergiac-red)](https://venergiac.substack.com/)
+
 # Using OLLAMA with vector db QDRANT for the best privacy of your data - implementing as simple RAG
 
 You can find here a complete python code to build a simple RAG with OLLAMA and QADRANT.
